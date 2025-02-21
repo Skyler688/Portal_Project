@@ -105,11 +105,11 @@ footer {
   width: 100%;
 }
 
-#ttechLink {
+a:visited {
   color: white;
 }
 
-a:visited {
+#ttechLink {
   color: white;
 }
 
