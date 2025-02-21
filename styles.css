@@ -87,10 +87,7 @@ nav h2 {
 /* footer */
 a {
   font-size: 1.15rem;
-<<<<<<< HEAD
-=======
   color: white;
->>>>>>> javaScript-and-project-link
 }
 
 header,
@@ -112,11 +109,10 @@ a:visited {
   color: white;
 }
 
-a:visited {
+#ttechlink {
   color: white;
 }
 
->>>>>>> javaScript-and-project-link
 @media screen and (max-width: 820px) {
   .cards {
     justify-content: center;
